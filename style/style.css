@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+    height: auto;
+}
+
+.kecamatan {
+    margin-left: 200px;
+}
+
+.pendidikan {
+    margin-left: 120px;
+    margin-bottom: 10px;
+}
+
+.contentrow2 {
+    margin-bottom: 5px;
+}
+
+.content {
+    min-height: 65vh;
+    margin-left: 2%;
+    margin-top: 4%;
+    margin-right: 2%;
+    font-size: 13pt;
+    margin-bottom: 8%;
+}
+
+img.img1{
+    float: right;
+    margin-top: 7%;
+    margin-bottom: 1%;
+    margin-right: 10%;
+}
+
+img.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+
+footer {
+    background-color: rgba(0, 86, 137, 1);
+    width: 100%;
+}
+
+.sumbar {
+    margin-left: -60px;
+    margin-bottom: 12px;
+    font-weight: 500; 
+    font-size: 25px;
+}
+
+.header {
+    top: 0;
+    background-color: rgba(0, 86, 137, 1);
+    font-size: 35pt;
+}
+
+.allcontent {
+    background-color:rgba(0, 86, 137, 1) ;
+}
+
+.nav {
+    background-color: rgb(165, 161, 161);
+}
+
+.nav-link {
+    /* margin-right: 40px; */
+    color: black;
+    font-weight: 600;
+}
+
+.content-info {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.context {
+    width: 1000px;
+}
+
+.content {
+    border: 1px solid #D4D4D4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.mapping {
+    padding: 5px;
+    margin: auto;
+}
+
+.content-table h3 {
+    text-align: center;
+}
+
+.container-login {
+    background-color: black;
+    height: 100vh;
+}
+
+.header-login {
+    text-align: center;
+}
+
+.header-login img {
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+.header-login h1 {
+    margin-top: 30px;
+    margin-botom: 30px;
+}
+
+.bglogin {
+    
+}
+
+.label {
+    color: white;
+    width: 500px;
+    margin-left: 710px;
+    margin-botom: 10px;
+}
+
+.box {
+    margin: auto;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 8px;
+    width: 500px;
+    height: 40%;
+}
+
+.input-box {
+    margin-bottom: 20px;
+    /* text-align: center; */
+}
+
+.inputext {
+    background-color: black;
+    border: 0px;
+    margin-left: 10px;
+    width: 400px;
+    height: 30%;
+    color: white;
+}
+
+.button {
+    background-color: #1A7FC1;
+    color: white;
+    border-radius: 15px;
+    border: 0px;
+    width: 500px;
+    height: 50px;
+    
+}
+
+.loginbtn a {
+    color: aliceblue;
+}
